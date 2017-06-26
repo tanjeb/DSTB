@@ -1,2 +1,0 @@
-# DSTB
-Data Science
